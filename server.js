@@ -4,7 +4,6 @@ const bodyParser = require('body-parser');
 
 const items = require('./routes/api/Items')
 
-
 const app = express();
 
 //BodyParser MiddleWire
