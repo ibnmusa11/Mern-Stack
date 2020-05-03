@@ -1,0 +1,8 @@
+GET http://localhost:5000/api/items
+
+###
+POST http://localhost:5000/api/items
+Content-Type: application/json
+{
+    "name": "Pens"
+}
